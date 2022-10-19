@@ -1,7 +1,6 @@
 ---
-# project_name
+# CSV Visualizer
 
-CSV Visualizer
 
 Basic Python project for visualizing CSV-data from file
 
