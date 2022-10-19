@@ -6,27 +6,16 @@
 
 project_description
 
-## Install it from PyPI
+## Install modules
 
 ```bash
-pip install project_name
+pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```py
-from project_name import BaseClass
-from project_name import base_function
-
-BaseClass().base_method()
-base_function()
-```
-
-```bash
-$ python -m project_name
-#or
-$ project_name
-```
+python csv_visualizer.py
 
 ## Development
 
